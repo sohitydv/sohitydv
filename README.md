@@ -1,121 +1,213 @@
-<h1 align="center">Hi 👋, I'm Sohit Yadav</h1>
+Act as a Senior Frontend Developer, UI/UX Designer, and GitHub README expert.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Developer;Django+Developer;FastAPI+Learner;Open+Source+Enthusiast" />
-</p>
+Create an ultra-premium GitHub Profile README using HTML and inline CSS only.
 
-<h3 align="center">A Passionate Python Developer from India 🇮🇳</h3>
+Rules:
 
----
+• Use HTML wherever possible.
+• Use inline CSS only.
+• Do NOT use external CSS files.
+• Do NOT use JavaScript.
+• Make everything GitHub-compatible.
+• Build the layout like a modern landing page.
+• Simulate a 3D premium UI using gradients, shadows, rounded cards, spacing, SVGs, and layered sections.
+• Use responsive HTML tables/divs where needed.
+• Every section should look unique.
+• Use emojis sparingly and professionally.
 
-##  About Me
+━━━━━━━━━━━━━━━━━━━━━━━━
 
-🎓 B.Tech Graduate in Computer Science & Engineering
+DESIGN STYLE
 
-🐍 Python Developer
+• Glassmorphism
+• Cyberpunk
+• Dark Theme
+• Neon Blue
+• Purple Gradient
+• Premium Portfolio
+• Apple + Vercel + Linear inspired
+• Clean Typography
+• 3D Card Illusion
+• Floating UI
 
-💻 Passionate about Backend Development
+━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌱 Currently Learning Django, FastAPI & REST APIs
+BUILD THESE SECTIONS
 
-🚀 Interested in Full Stack Development
+1. Hero Section
+- Animated SVG Banner
+- Developer Name
+- Animated Typing Effect
+- Short Professional Tagline
+- CTA Buttons
+- Social Icons
 
-📚 Solving Data Structures & Algorithms
+2. Glassmorphism Profile Card
+- Photo Placeholder
+- Name
+- Role
+- Experience
+- Current Status
+- Location
+- Resume Button
 
-💼 Open to Python Developer Opportunities
+3. About Me
+Use premium HTML cards.
 
-📍 India
+4. Tech Stack
+Display every technology inside beautiful HTML cards.
 
----
+Languages
+Frontend
+Backend
+Database
+Cloud
+Tools
 
-## 🛠️ Tech Stack
+5. Animated Skill Grid
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,html,css,js,react,mysql,git,github,vscode,cpp" />
-</p>
+6. Premium Project Showcase
 
----
+Each project should have:
 
-## 📊 GitHub Stats
+Image
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sohitydv&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohitydv&layout=compact&theme=tokyonight" height="180"/>
-</p>
+Title
 
----
+Description
 
-## 🔥 GitHub Streak
+Technology
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sohitydv&theme=tokyonight"/>
-</p>
+GitHub Button
 
----
+Live Demo Button
 
-## 🏆 GitHub Trophies
+Status Badge
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sohitydv&theme=tokyonight&row=1&column=7"/>
-</p>
+7. Experience Timeline
 
----
+8. GitHub Dashboard
 
-## 📌 Featured Projects
+Stats
 
-### 🎯 Face Recognition Attendance System
-- Python
-- OpenCV
-- Face Recognition
-- CSV Attendance
+Streak
 
-### 🏨 Hotel Management System
-- Java
-- JDBC
-- MySQL
+Activity Graph
 
-### 🌐 React Portfolio Website
-- React.js
-- HTML
-- CSS
-- JavaScript
+Contribution Calendar
 
----
+Top Languages
 
-## 📈 GitHub Activity Graph
+Metrics
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohitydv&theme=tokyo-night"/>
-</p>
+9. Open Source
 
----
+10. Achievements
 
-## 🌐 Connect With Me
+11. Coding Profiles
 
-<p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
+12. Current Goals
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
-</p>
+13. Contact
 
----
+14. Footer
 
-## 👀 Profile Views
+━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=sohitydv&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+HTML REQUIREMENTS
 
----
+Use
 
-## 💡 Quote
+<div>
 
-> "Code. Learn. Build. Repeat."
+<table>
 
----
+<tr>
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<td>
+
+<img>
+
+<p>
+
+<h1>
+
+<h2>
+
+<h3>
+
+<details>
+
+<summary>
+
+<br>
+
+<hr>
+
+Center alignment
+
+Rounded cards
+
+Gradient SVG images
+
+Animated badges
+
+SVG icons
+
+Typing SVG
+
+Capsule Render
+
+GitHub Readme Stats
+
+Profile Trophy
+
+Snake Animation
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+VISUAL EFFECTS
+
+Fake 3D Cards
+
+Floating Panels
+
+Gradient Borders
+
+Glass Cards
+
+Premium Shadows
+
+Rounded Corners
+
+Blur Background Simulation
+
+Modern Cards
+
+Clean Sections
+
+Beautiful Alignment
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+OUTPUT
+
+Generate one complete README.md.
+
+No explanations.
+
+No placeholders except:
+
+{{NAME}}
+
+{{GITHUB}}
+
+{{LINKEDIN}}
+
+{{EMAIL}}
+
+{{PORTFOLIO}}
+
+{{PROJECTS}}
+
+Return only the Markdown + HTML code.
