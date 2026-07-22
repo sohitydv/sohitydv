@@ -244,7 +244,7 @@ If you found this project helpful:
 
 ### *"Love is not just about finding the right person, it's about building the right connection."*
 
-### Made with ❤️ by **Your Name**
+### Made with ❤️ by **Love Guru**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=120&section=footer"/>
 
