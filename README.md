@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Sohit Yadav
 
-### Python Developer | Backend Developer | Software Engineer
+### Python Backend Developer • Django Developer • Open Source Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Python+Developer;Backend+Developer;Django+Developer;SQL+Developer;Problem+Solver;Open+Source+Learner"/>
 
@@ -17,29 +17,23 @@
 </div>
 
 ---
-
-# 🚀 About Me
+#  About Me
 
 🎓 B.Tech Graduate in Computer Science & Engineering
 
-🐍 Python Backend Developer
+💻 Passionate Python Backend Developer with a strong foundation in software development and problem solving.
 
-💻 Passionate about building scalable backend applications
+🐍 Skilled in Python, Django, SQL, MySQL, HTML, CSS, JavaScript, React.js and Git.
 
-🧠 Strong knowledge of Data Structures & Algorithms
+🧠 Strong understanding of Data Structures & Algorithms, Object-Oriented Programming, DBMS and Operating Systems.
 
-🗄️ Skilled in SQL, MySQL and Database Design
+🚀 Interested in Backend Development, REST APIs, Database Design and Software Engineering.
 
-🌐 Experienced with HTML, CSS, JavaScript, React.js and Django
+📚 Continuously learning modern technologies and building real-world projects.
 
-🔍 Interested in Backend Development, APIs and Software Engineering
-
-📈 Continuously improving problem-solving and development skills
-
-💼 Open to Python Developer, Backend Developer and Software Engineer roles
+💼 Open to Python Developer, Backend Developer and Software Engineer opportunities.
 
 📍 India
-
 ---
 
 # 🛠 Tech Stack
@@ -70,15 +64,25 @@
 
 # 🧠 Core Skills
 
-- ✔ Data Structures & Algorithms
-- ✔ Object-Oriented Programming
-- ✔ Database Management System
-- ✔ Operating System
-- ✔ SQL & MySQL
-- ✔ Backend Development
-- ✔ REST APIs
-- ✔ Git & GitHub
-- ✔ Responsive Web Development
+✔ Python Programming
+
+✔ Django Framework
+
+✔ SQL & MySQL
+
+✔ REST APIs
+
+✔ Data Structures & Algorithms
+
+✔ Object-Oriented Programming
+
+✔ Database Design
+
+✔ Operating System
+
+✔ Git & GitHub
+
+✔ Responsive Web Development
 
 ---
 
@@ -558,27 +562,37 @@ Goal:
 ---<img src="https://img.shields.io/github/forks/yourusername/love-guru?style=for-the-badge"/>
 <img src="https://img.shields.io/github/license/yourusername/love-guru?style=for-the-badge"/>
 </p>
-
-### ❤️ Your Personal AI Relationship Companion
-
-*Helping people create meaningful conversations, strengthen relationships, and receive intelligent AI-powered advice.*
-
 </div>
 
 ---
 
-# ✨ Features
+# 🚀 Featured Projects
 
-- 🤖 AI Relationship Advisor
-- 💬 Smart Chat Assistant
-- ❤️ Love & Dating Tips
-- 💌 Romantic Message Generator
-- 😊 Flirting Suggestions
-- 🎯 Personalized Responses
-- 🌍 Multi-language Support
-- 🔒 Secure Conversations
-- 📱 Fully Responsive Design
-- ⚡ Fast Performance
+## 📸 Facial-Based Attendance System
+
+**Tech Stack:** Python • MySQL • HTML • CSS • JavaScript
+
+### Key Features
+
+- Face Recognition Attendance
+- Real-Time Attendance Tracking
+- Optimized SQL Queries
+- Secure Database Integration
+- Responsive User Interface
+
+---
+
+## 🏨 Hotel Booking Web Application
+
+**Tech Stack:** Python • Django • SQLite • Bootstrap
+
+### Key Features
+
+- Hotel Booking Management
+- User Authentication
+- CRUD Operations
+- Responsive Design
+- Database Integration
 
 ---
 
@@ -608,30 +622,44 @@ https://your-demo-link.vercel.app
 
 ---
 
-# 📂 Project Structure
-
-```text
-Love-Guru/
+Facial-Based-Attendance-System/
 │
-├── client/
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── hooks/
-│   ├── assets/
-│   └── styles/
+├── 📂 assets/
+│   ├── images/
+│   └── icons/
 │
-├── server/
-│   ├── controllers/
-│   ├── routes/
-│   ├── middleware/
-│   ├── models/
-│   └── config/
+├── 📂 database/
+│   ├── attendance.sql
+│   └── schema.sql
 │
-├── public/
-├── package.json
+├── 📂 dataset/
+│   ├── train/
+│   └── test/
+│
+├── 📂 models/
+│   └── face_recognition_model.py
+│
+├── 📂 src/
+│   ├── attendance.py
+│   ├── camera.py
+│   ├── database.py
+│   ├── recognition.py
+│   └── utils.py
+│
+├── 📂 static/
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+├── 📂 templates/
+│   ├── index.html
+│   ├── attendance.html
+│   └── login.html
+│
+├── app.py
+├── requirements.txt
 ├── README.md
-└── .env
+└── LICENSE
 ```
 
 ---
@@ -642,10 +670,6 @@ Love-Guru/
 # Clone Repository
 
 git clone https://github.com/yourusername/love-guru.git
-
-# Move into project
-
-cd love-guru
 
 # Install dependencies
 
@@ -664,7 +688,6 @@ npm run dev
 2. Install dependencies
 3. Add your API keys
 4. Run the application
-5. Start chatting with Love Guru ❤️
 
 ---
 
@@ -732,8 +755,6 @@ Create Branch 🌿
 Commit Changes ✅
 
 Push Changes 🚀
-
-Create Pull Request ❤️
 ```
 
 ---
@@ -765,33 +786,13 @@ This project is licensed under the MIT License.
 </a>
 
 </p>
-
 ---
-
-# ⭐ Support
-
-If you found this project helpful:
-
-⭐ Star this repository
-
-🍴 Fork it
-
-🐞 Report Issues
-
-💡 Suggest Features
-
-❤️ Share with Friends
-
----
-
 <div align="center">
 
-# 💖 Thank You 💖
+### ⭐ Thanks for visiting my GitHub Profile!
 
-### *"Love is not just about finding the right person, it's about building the right connection."*
-
-### Made with ❤️ by **Love Guru**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=120&section=footer"/>
+🚀 Building scalable software solutions through continuous learning and practical development.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
