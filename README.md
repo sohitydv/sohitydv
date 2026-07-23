@@ -1,15 +1,185 @@
-# 💖 Love Guru
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FF4D6D&center=true&vCenter=true&width=900&lines=💘+Love+Guru;AI+Relationship+Companion;Smart+Conversations+%7C+Love+Advice+%7C+24%2F7+Support" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Sohit%20Yadav&fontColor=00F5FF&fontSize=55&animation=fadeIn&fontAlignY=40"/>
+
+</div>
+
+<h1 align="center">
+Hi 👋 I'm Sohit Yadav
+</h1>
+
+<h3 align="center">
+🐍 Python Developer • Backend Developer • Django Enthusiast • Problem Solver
+</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI-Powered-FF4D6D?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Made%20With-Love-ff69b4?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/yourusername/love-guru?style=for-the-badge"/>
-<img src="https://img.shields.io/github/forks/yourusername/love-guru?style=for-the-badge"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Django+Developer;SQL+Developer;React+Learner;Open+Source+Learner;Always+Learning+New+Technologies"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://github.com/sohitydv">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:0173cs221135@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 About Me
+
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 Computer Science Graduate
+
+🐍 Python Developer
+
+💻 Passionate about Backend Development
+
+🌱 Currently Learning
+
+- Django
+- REST APIs
+- Advanced SQL
+- React.js
+
+💡 Interested In
+
+- Backend Development
+- Full Stack Development
+- Database Design
+- Software Engineering
+
+🏆 Achievement
+
+🥇 Secured **1st Rank in 8th Semester**
+
+💼 Internship
+
+Frontend Developer Intern
+
+📍 India
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,mysql,git,github,vscode,cpp"/>
+
+</p>
+
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+
+</p>
+
+---
+
+# 🗄 Databases
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌐 Web Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,django"/>
+
+</p>
+
+---
+
+# ⚙ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+---
+
+# 🧠 Core Computer Science
+
+| Subject | Status |
+|---------|--------|
+| Data Structures & Algorithms | ✅ |
+| DBMS | ✅ |
+| Operating System | ✅ |
+| OOP | ✅ |
+| SQL | ✅ |
+| RDBMS | ✅ |
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+
+  - Django
+
+  - REST API
+
+  - Backend Development
+
+  - SQL Optimization
+
+Building:
+
+  - Real World Projects
+
+  - Python Applications
+
+  - Django Applications
+
+Goal:
+
+  Become a Python Backend Developer
+```
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sohitydv&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---<img src="https://img.shields.io/github/forks/yourusername/love-guru?style=for-the-badge"/>
 <img src="https://img.shields.io/github/license/yourusername/love-guru?style=for-the-badge"/>
 </p>
 
