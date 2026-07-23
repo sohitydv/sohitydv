@@ -1,21 +1,179 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Sohit%20Yadav&fontColor=00F5FF&fontSize=55&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Sohit%20Yadav&fontSize=55&fontColor=00F7FF&animation=fadeIn"/>
+
+<h1>Hi 👋 I'm Sohit Yadav</h1>
+
+<h3>Python Developer | Backend Developer | Software Engineer</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Django+Developer;SQL+Developer;Problem+Solver;Open+Source+Learner"/>
 
 </div>
 
-<h1 align="center">
-Hi 👋 I'm Sohit Yadav
-</h1>
+---
 
-<h3 align="center">
-🐍 Python Developer • Backend Developer • Django Enthusiast • Problem Solver
-</h3>
+# 👨‍💻 About Me
+
+🎓 B.Tech Graduate in Computer Science & Engineering
+
+🐍 Python Developer with strong backend development fundamentals
+
+💻 Skilled in Python, SQL, MySQL, Django, HTML, CSS, JavaScript and React.js
+
+📚 Strong understanding of Data Structures & Algorithms, DBMS and Operating Systems
+
+🌱 Currently learning Django REST Framework, REST APIs and Backend Development
+
+💼 Open to Python Developer, Backend Developer and Software Engineer opportunities
+
+📍 India
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Django+Developer;SQL+Developer;React+Learner;Open+Source+Learner;Always+Learning+New+Technologies"/>
+<img src="https://skillicons.dev/icons?i=python,django,react,html,css,javascript,mysql,git,github,vscode,cpp"/>
 
+</p>
+
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+
+</p>
+
+---
+
+# 🧠 Core Skills
+
+✔ Data Structures & Algorithms
+
+✔ Object-Oriented Programming
+
+✔ Database Management System
+
+✔ SQL & MySQL
+
+✔ Operating System
+
+✔ Git & GitHub
+
+✔ Backend Development
+
+✔ Responsive Web Development
+
+---
+
+# 💼 Experience
+
+### Frontend Developer Intern
+
+**Wyreflow Technology**
+
+- Developed responsive web interfaces.
+- Improved UI performance.
+- Collaborated with development team.
+- Built reusable frontend components.
+
+---
+
+# 🚀 Featured Projects
+
+## 📸 Facial-Based Attendance System
+
+**Tech Stack**
+
+Python • MySQL • HTML • CSS • JavaScript
+
+- Face recognition attendance
+- MySQL database integration
+- Optimized SQL queries
+
+---
+
+## 🏨 Hotel Booking Web Application
+
+**Tech Stack**
+
+Python • Django • SQLite • Bootstrap
+
+- User authentication
+- Hotel booking system
+- CRUD Operations
+
+---
+
+# 📜 Certifications
+
+🏆 Java Programming — NPTEL
+
+🏆 Python Programming — HackerRank
+
+🏆 SQL & Relational Databases — HackerRank
+
+---
+
+# 🥇 Achievement
+
+🏅 Secured **1st Rank in 8th Semester**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sohitydv">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sohit-yadav-08981428b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:0173cs221135@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Django REST Framework
+  - REST APIs
+  - Backend Development
+  - Advanced SQL
+
+Working On:
+  - Python Projects
+  - Django Applications
+  - Open Source Contributions
+
+Career Goal:
+  Python Backend Developer
+```
+
+---
+
+<div align="center">
+
+⭐ Thank you for visiting my profile.
+
+</div>
 </p>
 
 ---
